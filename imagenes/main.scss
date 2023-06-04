@@ -1,0 +1,16 @@
+
+
+*{
+    margin: 0%;
+    padding: 0% ;
+    box-sizing: border-box;
+
+}
+@import 'vars';
+@import 'header';
+@import 'pages';
+@import 'media';
+
+div {
+    width: 600px + 100px;
+}
